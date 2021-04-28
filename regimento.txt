@@ -1,0 +1,70 @@
+A Universidade Federal de Viçosa (UFV), por meio do Departamento de Informática (DPI) do Campus UFV-Viçosa e do Instituto de Ciências Exatas e Tecnológicas do campus UFV-Florestal, oferece o Programa de Pós-Graduação Stricto Sensu em Ciência da Computação (PPGCC), em nível de Mestrado e Doutorado.
+Os objetivos do programa são: formar professores que atendam de forma qualitativa à demanda crescente do ensino superior na área de Ciência da Computação; preparar pesquisadores para desenvolver pesquisas científicas de qualidade na área de Computação; formar profissionais com capacidade de inovação e tecnicamente qualificados para atuarem no mercado de trabalho em projetos que requerem formação altamente especializada.
+Os cursos de mestrado acadêmico e de doutorado oferecidos pelo PPGCC seguem o Regimento de Pós-Graduação Stricto Sensu constante no Catálogo de Pós-Graduação da UFV, que é aprovado por meio de resoluções do Conselho de Ensino, Pesquisa e Extensão (CEPE), acrescido deste Regimento Interno, que é proposto pela Comissão Coordenadora do PPGCC e aprovado pelo Conselho Técnico de Pós-Graduação (PPG) da UFV.
+A coordenação didático-científica do Programa será exercida pela Comissão Coordenadora do PPGCC, que é composta por um docente coordenador, três docentes pertencentes ao corpo de orientadores e por um estudante representante dos pós-graduandos.
+Os candidatos aos cursos oferecidos pelo PPGCC deverão possuir diploma de graduação em Ciência da Computação, Sistemas de Informação, Engenharia da Computação, Licenciatura em Computação, Engenharia de Software ou em áreas afins.
+Parágrafo único – Para admissão no Doutorado será exigido o título de mestre em Computação ou áreas afins.
+A seleção será feita com base nos critérios estabelecidos pela Comissão Coordenadora do PPGCC e documentos exigidos para inscrição, de acordo com edital específico a ser divulgado em cada processo seletivo (de mestrado e/ou doutorado).
+A data de inscrição para o processo seletivo será divulgada por meio de edital específico, na página eletrônica do Programa.
+A inscrição e a seleção são válidas somente para o semestre solicitado, exceto no caso de candidaturas via programas específicos de cooperação internacional.
+A admissão ao Doutorado poderá ocorrer em fluxo contínuo.
+Na seleção ao mestrado serão avaliados os seguintes documentos fornecidos pelo candidato no momento da inscrição:  histórico escolar da graduação; curriculum vitae, apresentado de acordo com o modelo divulgado no edital; plano de trabalho, elaborado em formulário indicado no edital; duas cartas de referência.
+Na seleção ao doutorado serão avaliados os seguintes documentos fornecidos pelo candidato no momento da inscrição: histórico escolar da graduação e do mestrado; curriculum vitae, apresentado de acordo com o modelo divulgado no edital; projeto de pesquisa, cuja avaliação irá considerar a parte escrita e, opcionalmente, sua apresentação e defesa.duas cartas de referência.
+O resultado do exame nacional da Sociedade Brasileira de Computação (SBC) para ingresso na pós-graduação em Computação (Poscomp), quando fornecido pelo candidato, poderá aumentar a sua pontuação final, caso sua nota seja maior que a média geral apurada no exame no ano que o candidato realizou a prova. Serão aceitos resultados de Poscomp com no máximo 5 anos de idade. O Poscomp é fortemente recomendado para a seleção dos candidatos ao mestrado e ao doutorado.
+A admissão de estudante estrangeiro será feita, preferencialmente, por meio de convênios internacionais reconhecidos pela PPG/UFV. Os demais alunos estrangeiros, não participantes de Programa de Estudante-Convênio de Pós-Graduação, serão submetidos às mesmas normas exigidas para os alunos brasileiros.
+Para obter o título, além de outras exigências, o mestrando deverá cursar, no mínimo, 18 créditos, e o doutorando, no mínimo, 30 créditos.
+Todo mestrando deverá cursar, obrigatoriamente, as disciplinas INF600-Técnicas de Pesquisa em Ciência da Computação e INF610-Estrutura de Dados e Algoritmos.
+O estudante poderá solicitar dispensa da disciplina INF610, se realizar uma prova até a segunda semana de aula e obtiver aproveitamento igual ou superior a 70%. A dispensa da disciplina não implica no aproveitamento dos créditos.
+Todo doutorando deverá cursar, obrigatoriamente, a disciplina INF630-Projeto e Análise de Algoritmos.
+O estudante poderá solicitar dispensa da disciplina INF630, se realizar uma prova até a segunda semana de aula e obtiver aproveitamento igual ou superior a 70%. A dispensa da disciplina não implica no aproveitamento dos créditos.
+Todo estudante do PPGCC deverá cursar, obrigatoriamente, dois semestres da disciplina INF797-Seminário.
+O estudante poderá utilizar, no máximo, 1 (um) crédito desta disciplina para integralizar no seu plano de estudos. Na primeira matrícula em INF797 o estudante aprovado receberá o conceito “Q” (em andamento). Na segunda matrícula, o estudante aprovado receberá o conceito “S” (Suficiente).
+Todo estudante deverá apresentar um seminário na disciplina INF797-Seminário, a ocorrer, preferencialmente, no 2º período letivo para o mestrando e no 4º período para o doutorando.
+Para os estudantes de Doutorado, os créditos obtidos em disciplinas de Seminários não poderão ser aproveitados do mestrado.
+Todo estudante do PPGCC deverá cursar, obrigatoriamente, 60 (sessenta) horas nas disciplinas de Estágio em Ensino.
+Todo estudante que durante seu treinamento for contemplado com bolsa de estudos, fornecida por intermédio do PPGCC, deverá cursar 30 (trinta) horas adicionais nas disciplinas de Estágio em Ensino.
+Para os estudantes de Doutorado, os créditos obtidos em disciplinas de Estágio em Ensino não poderão ser aproveitados do mestrado.
+O mestrando deverá integralizar os créditos até o final do 3º período. O doutorando deverá integralizar os créditos até o final do 4º período.
+A partir do 3º período do curso para o mestrado e do 5º período para o doutorado, todo estudante do PPGCC deverá se matricular, obrigatoriamente, na disciplina INF799 – Pesquisa, em todos os semestres até a defesa de sua dissertação ou tese.
+No período posterior à integralização dos créditos o estudante já deverá se matricular na disciplina INF799 – Pesquisa.
+Por ser um programa multi-campi, os códigos das disciplinas (ex.: INFxxx) citadas neste Regimento Interno poderão ser substituídos por códigos equivalentes quando ofertadas pelo campus UFV-Florestal (ex.: CCFxxx).
+Todo estudante poderá cursar as disciplinas ofertadas no Campus UFV-Viçosa ou no Campus UFV-Florestal com participação remota às aulas.
+Parágrafo único – Nestes casos os alunos devem assistir às aulas nas dependências físicas do Campus UFV-Viçosa ou do Campus UFV-Florestal.
+Todo estudante do PPGCC deverá comprovar suficiência em língua Inglesa, de acordo as opções constantes do Regimento Geral da Pós-Graduação.
+A orientação do estudante será feita por um professor credenciado no programa.
+A designação do professor orientador será feita mediante disponibilidade e interesse para orientação, além de afinidade de sua área de trabalho/atuação com a do candidato.
+O coordenador do PPGCC deverá aprovar e indicar o orientador de cada estudante, obedecendo aos interesses da área escolhida e das linhas de pesquisa do programa, respeitando os limites de orientação por docente, impostos pela CAPES, e distribuição das orientações pelo corpo de orientadores.
+Opcionalmente, poderão ser indicados até dois professores coorientadores, os quais formarão, com o orientador, a Comissão Orientadora, que supervisionará o trabalho de pesquisa para a dissertação ou tese.
+Todo estudante deverá apresentar à Comissão de Pesquisa do Departamento ou Instituto, ao qual está vinculado, um projeto de pesquisa, para ser registrado segundo as normas da PPG.
+Até o final do primeiro mês do 3º período letivo, o orientador, junto com o mestrando, deverá submeter o projeto de pesquisa à Comissão de Pesquisa do Departamento ou Instituto, ao qual está vinculado.
+Até o final do 4º período letivo, o doutorando deverá submeter seu projeto de pesquisa à Comissão de Pesquisa do Departamento ou Instituto, ao qual está vinculado.
+Todo doutorando deverá submeter-se a um exame de qualificação, conforme as regras do Regimento Geral da Pós-Graduação.
+O exame de qualificação no PPGCC constará de duas etapas, uma escrita e uma oral, versando sobre áreas de conhecimento pertinentes à formação do estudante.
+A etapa escrita deverá constar de, pelo menos, um artigo científico (revisão ou original) relativo ao tema da tese, bem como da apresentação de dados preliminares abrangendo referencial teórico, objetivos, metodologia, resultados, discussão e perspectivas de continuidade do estudo.
+A etapa oral deverá ser realizada mediante arguição pela banca contemplando temas de sua pesquisa e assuntos relacionados à Linha de Pesquisa do candidato.
+O exame de qualificação deverá ser concluído até o 6º período da admissão do estudante no Programa ao qual estiver vinculado.
+Somente estará apto a submeter-se à defesa de dissertação ou tese o estudante que tiver cumprido todas as exigências estabelecidas no Regimento de Pós-Graduação Stricto Sensu e neste Regimento Interno.
+O mestrando somente estará apto à defesa da dissertação após comprovação de publicação ou aceite de, pelo menos, um artigo originado da sua pesquisa, em um evento científico ou periódico incluídos no Qualis da área de Computação.
+O doutorando deve ter publicado, ou ter recebido aceite para publicação, de pelo menos um artigo originado da sua pesquisa em um periódico com classificação no Qualis A4 ou superior; ou comprovar o aceite de um artigo para publicação em conferência com classificação A4 ou superior, adicionada da comprovação de submissão de um artigo em um periódico com classificação A4 ou superior.
+A Comissão poderá aceitar a comprovação de aceite ou publicação de artigo em veículo que ainda não conste do Qualis, mas que tem claro potencial para ser incluído, com base nos critérios descritos no Documento de Área da Computação.
+Os exemplares impressos do texto da dissertação ou tese, para encaminhamento à banca, deverão ser entregues na secretaria do PPGCC, no mínimo 20 dias antes da data da defesa.
+ A defesa da dissertação ou tese será pública e terá o seguinte formato: (a) apresentação de seminário com duração máxima de 50 minutos; (b) arguição do candidato pelos membros da banca; (c) deliberação da banca sobre o resultado final, feita em sessão não pública; (d) divulgação do resultado final.
+Docente de outro departamento e/ou instituto da UFV ou de outra Instituição Federal de Ensino poderá ser convidado para se credenciar como orientador no PPGCC.
+Serão analisadas pela Comissão Coordenadora propostas de credenciamento que satisfaçam pelo menos um dos seguintes critérios mínimos definidos: 1) ser bolsista de produtividade em algum dos seguintes programas: (a) produtividade em pesquisa CNPq; (b) produtividade em desenvolvimento tecnológico CNPq; (c) programa pesquisador mineiro FAPEMIG.
+Ter obtido pontuação de pelo menos 100 pontos, referente a publicação classificada no Qualis da área, nos últimos 2 (dois) anos.
+Os pontos serão calculados de acordo com os mesmos critérios do documento de área da CAPES, podendo ser em artigos de conferências ou de revistas científicas.
+O credenciamento será válido por um período de 4 (quatro) anos.
+Serão analisadas pela Comissão Coordenadora propostas de recredenciamento que satisfaçam pelo menos um dos seguintes critérios mínimos definidos: 1) ser bolsista de produtividade em algum dos seguintes programas:(a) produtividade em pesquisa CNPq; (b) produtividade em desenvolvimento tecnológico CNPq; (c) programa pesquisador mineiro FAPEMIG.
+Ter obtido pontuação de pelo menos 280 pontos, referente a publicação classificada no Qualis na área mãe, nos últimos 4 (quatro) anos.
+Ter obtido pontuação de pelo menos 200 pontos, referente a publicação classificada no Qualis na área mãe no estrato A1, A2, A3 e A4, nos últimos 4 (quatro) anos.
+Os pontos serão calculados de acordo com os mesmos critérios do documento de área da CAPES, podendo ser em artigos de conferências ou de revistas científicas.
+O recredenciamento será válido por um período de 4 (quatro) anos.
+A Comissão Coordenadora, de acordo com a disponibilidade, destinará bolsa ao estudante.
+A bolsa pertence ao Programa e não ao estudante.
+Para concessão da bolsa exigir-se-á tempo integral e dedicação exclusiva ao Programa e residência no município de trabalho de seu orientador. O aluno contemplado com bolsa não pode ser funcionário/servidor do quadro funcional da UFV.
+A bolsa será automaticamente suspensa caso o aluno passe a receber remuneração de outra fonte durante sua vigência, exceto nos casos de monitoria II, tutoria da Universidade Aberta do Brasil (UAB) e de professor substituto, em regime de 20 horas, com atuação em algum campus da UFV.
+Havendo denúncia e comprovação de remuneração ou vínculo empregatício por bolsista do PPGCC, a bolsa será suspensa imediatamente e o mesmo responderá por processo disciplinar pelo descumprimento deste regimento.
+O estudante não poderá usufruir férias durante a vigência da bolsa, sendo-lhe permitido um recesso de 20 dias por ano, período fixado em comum acordo com o orientador.
+A bolsa poderá ser suspensa ou cancelada pela Comissão Coordenadora ou pela Agência Financiadora por motivos acadêmicos ou disciplinares, não cabendo ao bolsista qualquer direito de recurso ou indenização.
+O trancamento ou prorrogação de matrícula é motivo de suspensão imediata do direito à bolsa, sem nenhum direito adquirido quando do retorno do estudante.
+O PPGCC é regido pelo disposto no Regimento de Pós-Graduação da UFV e no Regimento Interno do Programa, sem prejuízo de disposições específicas do Estatuto do Regimento Geral da Universidade e de outras normas, Atos e Resoluções baixadas pelos Órgãos Colegiados competentes.

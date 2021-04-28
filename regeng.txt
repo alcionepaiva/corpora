@@ -1,0 +1,70 @@
+The Federal University of Viçosa (UFV), through the Department of Informatics (DPI) of the UFV-Viçosa Campus and the Institute of Exact and Technological Sciences of the UFV-Florestal campus, offers the Stricto Sensu Graduate Program in Computer Science (PPGCC), at the Master and Doctorate level.
+The program's objectives are: to train teachers who qualitatively meet the growing demand for higher education in the field of Computer Science; prepare researchers to develop quality scientific research in the field of Computing; train professionals with innovative capacity and technically qualified to work in the job market in projects that require highly specialized training.
+The academic master's and doctoral courses offered by PPGCC follow the Stricto Sensu Postgraduate Regulations contained in the UFV Postgraduate Catalog, which is approved by resolutions of the Teaching, Research and Extension Council (CEPE), plus this Internal Regulation, which is proposed by the Coordinating Committee of the PPGCC and approved by the UFV's Graduate Technical Council (PPG).
+The didactic-scientific coordination of the Program will be exercised by the Coordinating Committee of the PPGCC, which is composed of a coordinating professor, three professors belonging to the supervisory body and a student representing the graduate students.
+Candidates for courses offered by the PPGCC must have an undergraduate degree in Computer Science, Information Systems, Computer Engineering, Degree in Computer Science, Software Engineering or in related fields.
+Sole paragraph - Admission to the Doctorate will require a master's degree in Computing or related fields.
+The selection will be made based on the criteria established by the PPGCC Coordinating Committee and documents required for registration, in accordance with a specific notice to be published in each selection process (master's and / or doctorate).
+The registration date for the selection process will be announced through a specific notice on the Program's website.
+Registration and selection are valid only for the requested semester, except in the case of applications via specific international cooperation programs.
+Admission to the Doctorate may occur in a continuous flow.
+In the selection for the master's degree, the following documents provided by the candidate at the time of registration will be evaluated: undergraduate school transcript; curriculum vitae, presented according to the model published in the notice; work plan, prepared on the form indicated in the notice; two reference letters.
+In the selection for the doctorate, the following documents provided by the candidate at the time of registration will be evaluated: academic record of the undergraduate and master's degree; curriculum vitae, presented according to the model published in the notice; research project, whose evaluation will consider the written part and, optionally, its presentation and defense. two reference letters.
+The result of the national exam of the Brazilian Computer Society (SBC) for admission to the postgraduate course in Computing (Poscomp), when provided by the candidate, may increase your final score, if your grade is higher than the overall average determined in the exam in the year the candidate took the test. Poscomp results with a maximum age of 5 years will be accepted. Poscomp is strongly recommended for the selection of candidates for master's and doctorate.
+The admission of a foreign student will be made, preferably, through international agreements recognized by PPG / UFV. The other foreign students, not participating in the Student-Graduate Program Agreement, will be subject to the same rules required for Brazilian students.
+To obtain the title, in addition to other requirements, the master's student must take at least 18 credits, and the doctoral student, at least 30 credits.
+Every master student must attend the courses INF600 - Techniques of Research in Computer Science and INF610 - Data Structure and Algorithms.
+The student may request exemption from the INF610 discipline, if he / she takes a test until the second week of class and obtains a performance equal to or greater than 70%. The waiver of discipline does not imply the use of credits.
+Every PhD student must attend the course INF630-Project and Algorithm Analysis.
+The student may request exemption from the INF630 discipline, if he / she takes a test until the second week of class and obtains a performance equal to or greater than 70%. The waiver of discipline does not imply the use of credits.
+Every PPGCC student must attend two semesters of the INF797-Seminar course.
+The student may use a maximum of 1 (one) credit of this discipline to pay in his study plan. In the first enrollment in INF797, the approved student will receive the “Q” concept (in progress). On the second registration, the approved student will receive the “S” (Sufficient) concept.
+Every student must present a seminar in the discipline INF797-Seminário, to take place, preferably, in the 2nd academic period for the master's student and in the 4th period for the doctoral student.
+For PhD students, credits obtained in Seminar subjects cannot be used for the master's degree.
+Every PPGCC student must attend 60 (sixty) hours in the Internship in Teaching subjects.
+Every student who receives a scholarship during his training, provided through the PPGCC, must take an additional 30 (thirty) hours in the subjects of Internship in Teaching.
+For PhD students, credits obtained in Teaching Internship subjects cannot be used for the Master's.
+The master's student must complete the credits by the end of the 3rd period. The doctoral student must complete the credits by the end of the 4th period.
+From the 3rd period of the course for the master's degree and the 5th period for the doctorate, every PPGCC student must enroll in the discipline INF799 - Research, in all semesters until the defense of their dissertation or thesis.
+In the period after the credits are paid, the student must enroll in the INF799 - Research discipline.
+As it is a multi-campus program, the codes of the disciplines (eg INFxxx) mentioned in this Internal Regulation may be replaced by equivalent codes when offered by the UFV-Florestal campus (eg: CCFxxx).
+Every student can take the courses offered at the UFV-Viçosa Campus or the UFV-Florestal Campus with remote participation to the classes.
+Sole paragraph - In these cases, students must attend classes at the physical facilities of the UFV-Viçosa Campus or the UFV-Florestal Campus.
+Every PPGCC student must prove sufficiency in English, according to the options contained in the General Graduate Regulations.
+Student guidance will be provided by a teacher accredited in the program.
+The appointment of the supervising professor will be made subject to availability and interest for guidance, in addition to the affinity of his / her area of ​​work / performance with the candidate.
+The PPGCC coordinator must approve and indicate the supervisor of each student, obeying the interests of the chosen area and the program's lines of research, respecting the limits of guidance per teacher, imposed by CAPES, and distribution of guidance by the body of advisors.
+Optionally, up to two co-supervising professors may be appointed, who will form, with the supervisor, the Guiding Committee, which will supervise the research work for the dissertation or thesis.
+Every student must submit to the Research Committee of the Department or Institute, to which he / she is linked, a research project, to be registered according to the PPG rules.
+By the end of the first month of the 3rd term, the advisor, together with the student, must submit the research project to the Research Committee of the Department or Institute, to which he is linked.
+By the end of the 4th academic term, the doctoral student must submit his research project to the Research Committee of the Department or Institute, to which he is linked.
+Every doctoral candidate must undergo a qualification exam, in accordance with the rules of the General Graduate Regulations.
+The qualification exam at the PPGCC will consist of two stages, one written and one oral, covering areas of knowledge relevant to the student's education.
+The written stage must consist of at least one scientific article (review or original) on the topic of the thesis, as well as the presentation of preliminary data covering theoretical framework, objectives, methodology, results, discussion and prospects for continuing the study.
+The oral stage must be carried out by means of an argument by the board contemplating themes of his research and subjects related to the candidate's Research Line.
+The qualification exam must be completed by the 6th period of the student's admission to the Program to which he / she is linked.
+Only students who have fulfilled all the requirements established in the Stricto Sensu Postgraduate Regulations and in these Internal Regulations will be able to submit their dissertation or thesis defense.
+The master's student will only be able to defend the dissertation after proof of publication or acceptance of at least one article originating from his research, in a scientific or periodical event included in the Qualis in the Computing area.
+The doctoral student must have published, or received acceptance for publication, of at least one article originating from his research in a journal with a rating of Qualis A4 or higher; or prove acceptance of an article for publication in a conference with an A4 rating or higher, plus proof of submission of an article in a journal with an A4 rating or higher.
+The Commission may accept proof of acceptance or publication of an article in a vehicle that is not yet part of Qualis, but which has a clear potential to be included, based on the criteria described in the Computing Area Document.
+Printed copies of the text of the dissertation or thesis, for submission to the board, must be delivered to the PPGCC secretariat, at least 20 days before the defense date.
+ The defense of the dissertation or thesis will be public and will have the following format: (a) presentation of a seminar with a maximum duration of 50 minutes; (b) the candidate's claim by the members of the board; (c) the bank's decision on the final result, made in a non-public session; (d) disclosure of the final result.
+A professor from another department and / or institute at UFV or from another Federal Education Institution may be invited to become accredited as a supervisor at the PPGCC.
+Proposals for accreditation that meet at least one of the following defined minimum criteria will be analyzed by the Coordinating Committee: 1) be a productivity scholarship holder in any of the following programs: (a) productivity in CNPq research; (b) productivity in technological development CNPq; (c) FAPEMIG mining research program.
+Have obtained a score of at least 100 points, referring to the publication classified in the Qualis of the area, in the last 2 (two) years.
+The points will be calculated according to the same criteria as the CAPES area document, which may be in articles from conferences or scientific journals.
+The accreditation will be valid for a period of 4 (four) years.
+Proposals for re-accreditation that meet at least one of the following minimum criteria will be analyzed by the Coordinating Committee: 1) be a productivity scholarship holder in any of the following programs: (a) productivity in CNPq research; (b) productivity in technological development CNPq; (c) FAPEMIG mining research program.
+Have obtained a score of at least 280 points, referring to a publication classified in Qualis in the mother area, in the last 4 (four) years.
+Have obtained a score of at least 200 points, referring to the publication classified in Qualis in the mother area in stratum A1, A2, A3 and A4, in the last 4 (four) years.
+The points will be calculated according to the same criteria as the CAPES area document, which may be in articles from conferences or scientific journals.
+The re-accreditation will be valid for a period of 4 (four) years.
+The Coordinating Committee, according to availability, will allocate a scholarship to the student.
+The scholarship belongs to the Program and not to the student.
+To grant the scholarship, full time and exclusive dedication to the Program and residency in the municipality of work of your advisor will be required. The student awarded a scholarship cannot be an employee / servant of the UFV staff.
+The scholarship will be automatically suspended if the student starts to receive remuneration from another source during its term, except in the cases of monitoring II, tutorship from the Open University of Brazil (UAB) and substitute professor, on a 20-hour basis, working in some UFV campus.
+If there is a denunciation and proof of remuneration or employment relationship by a PPGCC grantee, the scholarship will be suspended immediately and it will respond by disciplinary process for non-compliance with these regulations.
+The student will not be able to enjoy holidays during the term of the scholarship, being allowed a recess of 20 days per year, a period fixed in agreement with the supervisor.
+The scholarship may be suspended or canceled by the Coordinating Committee or the Financing Agency for academic or disciplinary reasons, and the scholarship holder has no right to appeal or indemnity.
+The locking or extension of enrollment is grounds for immediate suspension of the right to the scholarship, with no acquired right upon the student's return.
+The PPGCC is governed by the provisions of the UFV Graduate Regulations and the Internal Regulations of the Program, without prejudice to specific provisions of the Statute of the General Regulations of the University and other rules, Acts and Resolutions issued by the competent Collegiate Bodies.
